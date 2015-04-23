@@ -1,5 +1,6 @@
 # nodejs-bower
 Use bower build Node.js Express Project
+
 # 前提准备
 
 为了安装bower，你首先需要安装如下文件：
@@ -14,12 +15,17 @@ Use bower build Node.js Express Project
 
 npm install -g bower
 这行命令是Bower的全局安装，-g 操作表示全局。
+
 # bower命令
 bower 查看bower命令
+
 bower -v 查看bower版本
+
 ... 以及其他
+
 # 开始使用Bower
 1. 安装jQuery
 bower install jquery
+
 2. 安装bootstrap
 bower install bootstrap
