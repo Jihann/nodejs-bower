@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-bower",
+  "version": "0.0.1",
+  "authors": [
+    "Jihann <1244098192@qq.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "bootstrap": "~3.3.4"
+  }
+}
