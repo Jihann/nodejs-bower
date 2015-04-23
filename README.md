@@ -24,9 +24,10 @@ bower -v 查看bower版本
 ... 以及其他
 
 # 开始使用Bower
-安装jQuery
+①安装jQuery
 
 bower install jquery
 
-安装bootstrap
+②安装bootstrap
+
 bower install bootstrap
