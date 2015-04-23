@@ -7,6 +7,7 @@ Use bower build Node.js Express Project
 1. Node：下载最新版本的node.js
 2. NPM：NPM是node程序包管理器。它是捆绑在nodejs的安装程序上的，所以一旦你已经安装了node，NPM也就安装好了。
 3. Git：你需要从git仓库获取一些代码包。
+
 # 安装Bower
 
 一旦你已经安装了上面所说的所有必要文件，键入以下命令安装Bower：
