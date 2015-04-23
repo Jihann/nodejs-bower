@@ -29,5 +29,4 @@ bower -v 查看bower版本
 bower install jquery
 
 2. 安装bootstrap
-
 bower install bootstrap
